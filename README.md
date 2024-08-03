@@ -1,2 +1,2 @@
-# bear
+# Basic Intro/Resume
 zone on
